@@ -3,4 +3,4 @@ Repositório destinado à resolução e documentação das atividades de laborat
 
 # Gerar relatório
 
-./node_modules/.bin/cypress run --spec ./cypress/integration/teste_demoblaze/demoblaze.spec.js --reporter mochawesome
+./test_qa/node_modules/.bin/cypress run --spec ./cypress/integration/teste_demoblaze/demoblaze.spec.js --reporter mochawesome
